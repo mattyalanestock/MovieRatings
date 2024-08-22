@@ -1,0 +1,19 @@
+body {
+	background:#111;
+}
+
+.jumbotron {
+	color:#e0e0e0;
+	background:#222;
+	border-radius:0;
+}
+
+.card {
+	color:#e0e0e0;
+	background:#222;
+}
+
+.shadow-dark {
+    -webkit-box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.75) !important;
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.75) !important
+}
