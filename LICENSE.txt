@@ -1,0 +1,19 @@
+
+This software is licensed under the "Anyone Not Affiliated With Canfield Scientific" (ANAWCM) license, described below. No other licenses may apply.
+
+
+------------------------------------------------------------
+The "Anyone Not Affiliated With Canfield Scientific" license
+------------------------------------------------------------
+
+Do anything you want with this program, with the exceptions listed below under "EXCEPTIONS".
+
+THIS SOFTWARE IS PROVIDED "AS IS" WITH NO WARRANTY OF ANY KIND.
+
+In the unlikely event that you happen to make a zillion bucks off of this, then good for you; consider throwing some money my way because I wrote this software for an interview and didn't recieve a job offer, or any feedback for that matter.
+
+
+EXCEPTIONS
+----------
+
+Anyone contracted or employed by Canfield Scientific, Inc (headquartered in Parsippany, NJ) may not make use of or redistribute this program or any of its derivatives.
